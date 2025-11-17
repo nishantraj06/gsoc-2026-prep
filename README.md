@@ -1,2 +1,2 @@
 # gsoc-2026-prep
-this is my pratice folder ..
+I am praticing git as a new skills ..
