@@ -1,3 +1,10 @@
+task 1 :- 
+
+const user = { name: "Nishant", age: 20 };
+const updates = { age: 21, role: "Student" };
+const NewUser  = { ...user , ...updates}
+
+task2 ;- 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         int arr[] = new int[2];
@@ -12,4 +19,3 @@ class Solution {
         }
         return arr;
     }
-}
